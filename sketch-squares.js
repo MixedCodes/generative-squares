@@ -1,3 +1,5 @@
+//Link to canvas-sketch: https://github.com/mattdesl/canvas-sketch
+
 const canvasSketch = require('canvas-sketch');
 
 const settings = {
